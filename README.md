@@ -1,4 +1,4 @@
-<h1 align="left">Hi GitHub 👋, I'm Sonu :earth_asia:</h1>
+<h1 align="left">Hi GitHub 👋, I'm Sonu Langaya:earth_asia:</h1>
 
 <h3 align="leftr">Plant Breeder👨🏻‍🔬🌾 </h3>
 <br />
