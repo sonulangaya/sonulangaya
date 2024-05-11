@@ -1,4 +1,4 @@
-<h1 align="left">Hi GitHub 👋, I'm Sonu Langaya:earth_asia:</h1>
+<h1 align="left">Hi GitHub 👋, I'm Sonu Langaya:🌏:</h1>
 
 <h3 align="leftr">Plant Breeder👨🏻‍🔬🌾 </h3>
 <br />
@@ -9,7 +9,7 @@
 <br /><br />
 I am a PhD Scholar 👨🏻‍🔬🌾 in the Field of Genetics and Plant Breeding 🌾.
 
-Utilizing the power of Codes in Plant Breeding :computer::pencil:.
+Utilizing the power of Codes in Plant Breeding 💻✏️.
 
 <br /><br />
 
