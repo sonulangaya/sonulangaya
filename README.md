@@ -21,6 +21,6 @@ Utilizing the power of Codes in Plant Breeding 💻✏️.
 <a href="https://linkedin.com/in/sonulangaya"><img src="https://img.shields.io/badge/-Sonu%20Langaya-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/sonulangaya"><img src="https://img.shields.io/badge/-Sonu%20Langaya-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/sonulangaya"><img src="https://img.shields.io/badge/-Sonu%20Langaya-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
-<a href="https://twitter.com/intent/follow?screen_name=sonulangaya"><img src="https://img.shields.io/twitter/follow/sonulangaya?style=social&logo=twitter" alt="Connect on Twitter"></a>
+<a href="[https://twitter.com/intent/follow?screen_name=sonulangaya](https://x.com/intent/follow?screen_name=sonulangaya)"><img src="https://img.shields.io/twitter/follow/sonulangaya?style=social&logo=twitter" alt="Connect on X"></a>
 <a href="mailto:sonulangaya@yahoo.in"><img src="https://img.shields.io/badge/-Mail%20Me-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
